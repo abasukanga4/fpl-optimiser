@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data is fetched live from the FPL API (regenerate with src/fetch_data.py)
+data/*
+!data/.gitkeep
+
+.DS_Store

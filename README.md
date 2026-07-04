@@ -4,7 +4,7 @@ Picks the **mathematically optimal** Fantasy Premier League squad — the 15 pla
 starting XI, *and* the captain — by integer linear programming, under the £100m budget and
 every real FPL rule. Live data from the official FPL API.
 
-> **Live demo:** _add your Streamlit / Hugging Face Spaces URL here after deploying_
+> **Live demo:** coming soon
 
 ![Optimal £100m FPL squad](figures/points_vs_price.png)
 

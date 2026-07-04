@@ -2,7 +2,6 @@ pandas
 numpy
 requests
 pulp
-scikit-learn
 streamlit
 plotly
 pyarrow

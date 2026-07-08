@@ -1,7 +1,7 @@
-pandas
-numpy
-requests
-pulp
-streamlit
-plotly
-pyarrow
+pandas==2.3.3
+numpy==2.0.2
+requests==2.32.5
+pulp==3.3.1
+streamlit==1.50.0
+plotly==6.8.0
+pyarrow==21.0.0
